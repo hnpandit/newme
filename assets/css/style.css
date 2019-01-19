@@ -12,3 +12,8 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.indicator-item {
+  height: 32px;
+  background-color: #f44336;
+}
